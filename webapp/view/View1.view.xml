@@ -10,6 +10,7 @@
                 <Page id="page" title="{i18n>title}">
                     <content>
                         <Text text="Test ok"/>
+                        <Text text="Test ok22"/>
                     </content>
                 </Page>
             </pages>
