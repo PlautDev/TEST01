@@ -11,6 +11,7 @@
                     <content>
                         <Text text="Test ok"/>
                         <Text text="Test ok22"/>
+                        <Text text="Test ok22"/>
                     </content>
                 </Page>
             </pages>
